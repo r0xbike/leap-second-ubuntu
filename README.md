@@ -12,6 +12,12 @@ The script checks for the following:
 * kernel version 3.4 or greater  
 * potential ntp issues with -x or 'slew time'
 
+### Compatibility
+This script has been tested on the following versions of Ubuntu:
+* 12.04
+* 13.10
+* 14.04
+
 ### Additional reading
 * Leap second announcement: https://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat
 * RedHat Leap Second audit script: https://access.redhat.com/labs/leapsecond/
